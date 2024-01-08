@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repository has been merged into [@capacitor-community/volume-buttons](https://github.com/capacitor-community/volume-buttons), where is it going to be actively maintained
+
 # capacitor-volume-buttons
 
 Hardware volume buttons listener for Capacitor
